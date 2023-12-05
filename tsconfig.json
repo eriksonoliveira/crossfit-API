@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./src", 
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "./dist",
+    "preserveValueImports": false,
+    "esModuleInterop": true,
+    // "sourceMap": false,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  // "lib": ["es2015"],
+  // "include": ["src/**/*.ts"]
+}
